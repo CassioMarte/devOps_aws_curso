@@ -67,3 +67,35 @@ cluste de EC2 + auto scale (salva se cair pesquisar mais )
 
 
 
+http://bia-alb-1053847581.us-east-1.elb.amazonaws.com/
+
+
+- code pipeline (img/codepipeline,png)
+
+- buildspec.yml
+
+- code pipeline 
+
+   aws -> create pipeline 
+
+
+
+VIDEOS DE APOIO:
+
+- https://youtu.be/qpEKtvfxseo?si=ld3dgOGZIWPq3RqI
+
+- https://www.youtube.com/live/Fnt_GUtjiSQ?si=bUN0lV8934yNjZz2
+
+- https://www.youtube.com/live/D0RJd3Mi2dI?si=U1cgCXm5VdVrmz0W
+
+- https://www.youtube.com/live/4YRRUstUm6E?si=UJGZqYulKBP-1t1z
+
+- https://youtu.be/X7bIofG1KzU?si=mw2IgsUeAbJhGozA
+
+- https://youtu.be/mxf0DgZeaW0?si=dHt0grGqyI0icUKS
+
+- https://youtu.be/NekPx6xlUkk?si=_0r6d19a5cPkNpmU
+
+- https://youtu.be/0roAFD7ZXl4?si=NxRv8wNATr-ebx5_
+
+- https://youtu.be/VlK5XdlJuqs?si=wV_fSFaox5iZjobY
