@@ -45,3 +45,25 @@ aws
 
 - mcp server principalmente mcp server AWS (ajuda a melhor e mais segura comunicação com AWS e de forma segura sem ler seus dados de segurança)
 
+
+
+Cobrança 
+
+- cobrança.png
+- cobrança_2.png
+
+
+
+Banco em RDS (A aws gerencia)
+
+
+
+
+Task definition primo do compose docker só que usado para cluster ECR  (elastic container service - )
+
+fargate only + caro 
+
+cluste de EC2 + auto scale (salva se cair pesquisar mais )
+
+
+
